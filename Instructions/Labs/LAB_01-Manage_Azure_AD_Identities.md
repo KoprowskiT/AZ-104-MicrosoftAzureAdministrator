@@ -113,7 +113,7 @@ In this task, you will create Azure Active Directory groups with assigned and dy
     | --- | --- |
     | Group type | **Security** |
     | Group name | **IT Cloud Administrators** |
-    | Group description | **Contoso IT cloud administrators** |
+    | Group description | **Contoso IT Cloud Administrators** |
     | Membership type | **Dynamic User** |
 
     >**Note**: If the **Membership type** drop-down list is grayed out, refresh the browser page.
@@ -136,7 +136,7 @@ In this task, you will create Azure Active Directory groups with assigned and dy
     | --- | --- |
     | Group type | **Security** |
     | Group name | **IT System Administrators** |
-    | Group description | **Contoso IT system administrators** |
+    | Group description | **Contoso IT System Administrators** |
     | Membership type | **Dynamic User** |
 
 1. Click **Add dynamic query**.
@@ -157,7 +157,7 @@ In this task, you will create Azure Active Directory groups with assigned and dy
     | --- | --- |
     | Group type | **Security** |
     | Group name | **IT Lab Administrators** |
-    | Group description | **Contoso IT Lab administrators** |
+    | Group description | **Contoso IT Lab Administrators** |
     | Membership type | **Assigned** |
 
 1. Click **No members selected**.
